@@ -29,7 +29,7 @@ import { FaPenNib } from "react-icons/fa";
 import { BsCalendar } from "react-icons/bs";
 import { IoLogoFacebook } from "react-icons/io5";
 import { AiFillTwitterCircle } from "react-icons/ai";
-import { FaFacebookF, FaInstagram, FaTwitter } from "react-icons/fa";
+import {  FaInstagram } from "react-icons/fa";
 import { IoIosArrowRoundBack ,IoIosArrowRoundForward } from "react-icons/io";
 import BlogCommet1 from "@/app/assets/BlogImage11.jpg"
 import BlogCommet2 from "@/app/assets/BlogImage12.jpg"

@@ -55,7 +55,7 @@ const Login = () => {
             </button>
           </form>
           <p className="text-center text-sm text-[#151875] mt-4">
-            Don't have an Account?{" "}
+            Dont have an Account?{" "}
             <a href="#" className="text-[#FB2E86] hover:underline">
               Create account
             </a>

@@ -2,7 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import { FaTrashAlt } from "react-icons/fa";
+
 import Link from "next/link";
 
 

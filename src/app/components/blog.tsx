@@ -3,7 +3,7 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { FaFacebookF, FaInstagram, FaTwitter } from "react-icons/fa";
+import {  FaInstagram,  } from "react-icons/fa";
 
 
 import BlogImage1 from "@/app/assets/blog1.jpg";

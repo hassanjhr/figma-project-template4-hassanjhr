@@ -2,7 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import { FaStar, FaHeart, FaFacebookF, FaInstagram, FaTwitter } from "react-icons/fa";
+import { FaStar, FaHeart,  FaInstagram,  } from "react-icons/fa";
 import Thumbnail1 from "@/app/assets/pr2.png";
 import Thumbnail2 from "@/app/assets/pr3.png";
 import Thumbnail3 from "@/app/assets/pr4.png";
